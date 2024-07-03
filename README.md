@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Balaganapathi!
+👋 Hi, I'm Balaganapathi!<br>
 🎓 I recently graduated with a BSc in Computer Science from Yadava College (2023).
 📚 Currently, I'm pursuing a Java Full Stack Developer program at GUVI.
 💻 I'm passionate about Java development, web technologies, and building scalable applications.
