@@ -25,7 +25,7 @@ A web application for managing employee records, including CRUD operations, buil
 
 
 ## 📫 How to reach me:
-- [LinkedIn] (https://www.linkedin.com/in/yourlinkedinprofile)
+- [LinkedIn] (https://www.linkedin.com/in/balaganapathitech-/)
 - [Email] balaganapathi33@gmail.com
 
 ## 📈 GitHub Stats:
