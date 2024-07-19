@@ -17,7 +17,7 @@
 ### [Hospital Management System] https://github.com/BalaganapathiTech/Hospital-Management
 A comprehensive web application for managing hospital operations, built with Spring Boot for the backend and HTML/CSS for the frontend.
 
-### [Bus Reservation System] https://github.com/yourusername/bus-reservation-system
+### [Bus Reservation System] https://github.com/BalaganapathiTech/Online-Bus-Ticket-Booking-Application
 A full-stack web application for bus ticket booking, including user authentication, booking management, and payment integration.
 
 ### [Employee Management System] https://github.com/BalaganapathiTech/Employee-management
