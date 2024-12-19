@@ -59,7 +59,7 @@ I'm a passionate **Software Developer** with a strong foundation in **Java progr
 
 ## Let's Connect!  
 
-💼 **LinkedIn**: [Bala Ganapathi]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/feed/))  
+💼 **LinkedIn**: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/balaganapathitech-/)
 📧 **Email**: balaganapathi33@gmail.com  
 📂 **Portfolio**: [Your Portfolio](https://yourportfolio.com)  
 
